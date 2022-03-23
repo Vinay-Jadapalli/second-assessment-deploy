@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/second-assement-deploy/static/css/main.9244f47d.css",
+    "main.js": "/second-assement-deploy/static/js/main.b0e18b30.js",
+    "static/js/787.831e8889.chunk.js": "/second-assement-deploy/static/js/787.831e8889.chunk.js",
+    "index.html": "/second-assement-deploy/index.html",
+    "main.9244f47d.css.map": "/second-assement-deploy/static/css/main.9244f47d.css.map",
+    "main.b0e18b30.js.map": "/second-assement-deploy/static/js/main.b0e18b30.js.map",
+    "787.831e8889.chunk.js.map": "/second-assement-deploy/static/js/787.831e8889.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9244f47d.css",
+    "static/js/main.b0e18b30.js"
+  ]
+}
